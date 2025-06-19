@@ -1,2 +1,4 @@
 # examples
-Public examples of various tools
+To reproduce log duplicating issue run
+
+`dagger call mod-print --progress=report`
